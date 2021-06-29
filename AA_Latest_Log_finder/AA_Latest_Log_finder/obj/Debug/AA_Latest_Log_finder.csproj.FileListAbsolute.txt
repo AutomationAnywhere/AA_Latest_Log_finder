@@ -1,0 +1,6 @@
+C:\Users\Sikha.P\source\repos\AA_Latest_Log_finder\AA_Latest_Log_finder\obj\Debug\AA_Latest_Log_finder.csprojAssemblyReference.cache
+C:\Users\Sikha.P\source\repos\AA_Latest_Log_finder\AA_Latest_Log_finder\obj\Debug\AA_Latest_Log_finder.csproj.CoreCompileInputs.cache
+C:\Users\Sikha.P\source\repos\AA_Latest_Log_finder\AA_Latest_Log_finder\bin\Debug\AA_Latest_Log_finder.dll
+C:\Users\Sikha.P\source\repos\AA_Latest_Log_finder\AA_Latest_Log_finder\bin\Debug\AA_Latest_Log_finder.pdb
+C:\Users\Sikha.P\source\repos\AA_Latest_Log_finder\AA_Latest_Log_finder\obj\Debug\AA_Latest_Log_finder.dll
+C:\Users\Sikha.P\source\repos\AA_Latest_Log_finder\AA_Latest_Log_finder\obj\Debug\AA_Latest_Log_finder.pdb

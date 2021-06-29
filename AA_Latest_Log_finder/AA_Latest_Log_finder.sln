@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AA_Latest_Log_finder", "AA_Latest_Log_finder\AA_Latest_Log_finder.csproj", "{B33DAAC3-4CEC-432C-8E84-B59FBB7A77CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B33DAAC3-4CEC-432C-8E84-B59FBB7A77CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B33DAAC3-4CEC-432C-8E84-B59FBB7A77CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B33DAAC3-4CEC-432C-8E84-B59FBB7A77CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B33DAAC3-4CEC-432C-8E84-B59FBB7A77CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A376037C-38B9-4DE7-B916-CD8AC7D0D3B3}
+	EndGlobalSection
+EndGlobal
